@@ -1,5 +1,5 @@
 struct hk_node
 {
     __UINT8_TYPE__* flowkey;
-    int count;
+    uint16_t count;
 };
